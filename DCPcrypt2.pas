@@ -643,8 +643,6 @@ begin
 end;
 
 function TDCP_cipher.EncryptString(const Str: RawByteString): RawByteString;
-var
-  lLength : integer;
 begin
 {$IFDEF NEXTGEN}
   Result.SetLength(AnsiLength(Str));
