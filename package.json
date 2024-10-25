@@ -1,0 +1,8 @@
+{
+  "name": "dcpcrypt-v2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/solussaude/dcpcrypt-v2",
+  "license": "MIT",
+  "packageManager": "yarn@4.5.1"
+}
